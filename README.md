@@ -1,5 +1,5 @@
 # ec2-lambda-start-stop
-AWS Lambda to start and stop the EC2 instances
+AWS Lambda to schedule the start and stop the EC2 instances.
 
 1. Create a Node.js Lamnda Function say "ec2-lambda-start-stop"
 2. Policy required:
